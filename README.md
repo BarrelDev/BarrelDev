@@ -1,8 +1,13 @@
 ### Hi! 👋
 
 I like making things with computers.
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarrelDev&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=6px&hide_title=true&disable_animations=true&layout=compact" alt="My Top Languages" />](https://github.com/BarrelDev)
+
 <!--
 **BarrelDev/BarrelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+If anyone random sees this, this is just so that I can remember to add something to this readme
 
 Here are some ideas to get you started:
 
