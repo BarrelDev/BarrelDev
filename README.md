@@ -2,7 +2,18 @@
 
 I like making things with computers.
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarrelDev&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&border_radius=6px&hide_title=true&disable_animations=true&layout=compact" alt="My Top Languages" />](https://github.com/BarrelDev)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=BarrelDev&layout=compact&theme=radical)
+
+<a align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarrelDev&theme=tokyonight&hide_border=true" height="165"/>
+</a>
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarrelDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>](https://github.com/BarrelDev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarrelDev&show_icons=true&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=BarrelDev&style=flat-square&color=blue) -->
 
 <!--
 **BarrelDev/BarrelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
