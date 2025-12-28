@@ -3,7 +3,6 @@
 I like making things with computers.
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=BarrelDev&layout=compact&theme=radical)
-
 <a align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarrelDev&theme=tokyonight&hide_border=true" height="165"/>
 </a>
